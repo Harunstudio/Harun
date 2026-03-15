@@ -1,0 +1,7 @@
+{
+  "name": "v.2 PoseMasterPRO Gold Edition",
+  "description": "A luxury AI-powered photography tool for professional pose manipulation, expression control, and cinematic angle adjustment while preserving identity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
